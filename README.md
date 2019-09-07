@@ -1,10 +1,16 @@
+# Test task on mongo and koa
+---
+
+### Requirements
 node: 10.16.3
 mongod: 4.2.0
+
+---
 
 start project: ```npm run start```
 
 ---
-##Task
+## Task
 
 ```
 Scope
@@ -31,7 +37,7 @@ Technology Stack
 ● Data store of your choice
 ```
 ___
-###Endpoint list
+### Endpoint list
 
 - create event
     ```
